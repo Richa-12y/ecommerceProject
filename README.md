@@ -33,10 +33,20 @@ You may also see any lint errors in the console.
 > NavBar Middle Section
 > NavBar Flag Section
 > Add Component
-
+>Hero Component
+>Products and product Component
+>Footer Component-not compeleted
+  >created product component in side create array and map that to product 
   
  
  ### Project stc
  ![image](https://user-images.githubusercontent.com/69744397/205501967-67c51de2-8226-4176-b8d0-4d9be657fc41.png)
+
+### Image for today work Hero and post
+![image](https://user-images.githubusercontent.com/69744397/205619272-d92e46fa-3225-4920-8b2e-38512523b85c.png)
+
+### products Footer image still working
+![image](https://user-images.githubusercontent.com/69744397/205619469-b734281b-6a6e-4189-a6ae-6c557e5465b6.png)
+
 
 
