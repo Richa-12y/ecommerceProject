@@ -14,3 +14,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+
+@media(min-width: 640px) {
+
+
+    .grad {
+      background: rgb(2, 0, 36);
+      background: linear-gradient(180deg, rgba(2, 0, 36, 0)66%,
+          rgba(214, 237, 237, 1));
+    }
+}
