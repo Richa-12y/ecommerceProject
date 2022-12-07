@@ -48,5 +48,10 @@ You may also see any lint errors in the console.
 ### products Footer image still working
 ![image](https://user-images.githubusercontent.com/69744397/205619469-b734281b-6a6e-4189-a6ae-6c557e5465b6.png)
 
+### image 
+![image](https://user-images.githubusercontent.com/69744397/206183940-75ee39bb-fddd-4183-89c2-7947e1c5e0f9.png)
+
+### image
+![image](https://user-images.githubusercontent.com/69744397/206184113-4df7365f-4393-4311-9aac-8bb5676f0bc3.png)
 
 
