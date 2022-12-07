@@ -18,7 +18,7 @@ const Hero = () => {
         </div>
       </div>
       {/* Here is post baner start */}
-      <div className="p-6 py-12 dark:bg-blue-400 dark:text-white text-white ">
+      <div className="p-6 py-12 dark:bg-blue-400 dark:text-white text-white shrink-0 ">
         <div className="container mx-auto">
           <div className="flex flex-col lg:flex-row items-center justify-between">
             <h2 className="text-center text-6xl tracking-tighter font-bold">

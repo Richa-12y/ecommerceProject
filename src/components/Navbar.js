@@ -7,6 +7,7 @@ import { TbWorld } from "react-icons/tb";
 import indianLogo from "../assests/indialogo.PNG"; //TiArrowRepeatOutline//AiOutlineLogin
 import { TiArrowRepeat } from "react-icons/ti";
 import { BiLogInCircle } from "react-icons/bi";
+import Ecommerces from "../assests/3d-casual-life-credit-card-and-chart-column.png";
 
 const Navbar = () => {
   return (
@@ -14,6 +15,11 @@ const Navbar = () => {
       {/* left */}
       <div className="flex items-center shrink-0">
         <div className="h-10 flex">
+          <img
+            src={Ecommerces}
+            className="object-cover border-2 border-orange-400 p-1"
+            alt="ecom"
+          />
           <img src={logo} className="object-cover" alt="pagelogo" />
         </div>
         <div className="hidden text-white/70 p-1 ml-4 md:flex items-center hover:scale-110 border-solid border-2 border-white-600 justify-center h-full hover:text-white ">
