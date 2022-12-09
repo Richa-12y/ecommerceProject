@@ -1,9 +1,13 @@
 import "./App.css";
-import Add from "./components/Add";
-import Footer from "./components/Footer";
-import Hero from "./components/Hero";
-import Navbar from "./components/Navbar";
-import Products from "./components/Products";
+import {
+  Add,
+  Deals,
+  Footer,
+  Hero,
+  Navbar,
+  Products,
+  Trending,
+} from "./components";
 
 function App() {
   return (
@@ -17,7 +21,9 @@ function App() {
       {/* Products */}
       <Products />
       {/* Deals */}
+      <Deals />
       {/* Trending */}
+      <Trending />
       {/* Footer */}
       <Footer />
       {/* <div className="bg-[#eaeded] h-screen"></div> */}
